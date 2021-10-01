@@ -9,7 +9,7 @@
       - Progressive Web App (pwa) support
       - Uses vitejs for fast build and deployment 
       
-        - https://cp-movies-app.herokuapp.com
+ - https://cp-movies-app.herokuapp.com
         
 
  - Movies roll 1 on initial load
