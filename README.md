@@ -1,6 +1,6 @@
   A web app for viewing Movies information.
   
-   == Features==
+  # Features
    
       - Uses the Vue Options Api
       - Use Nuxtjs for SSR
